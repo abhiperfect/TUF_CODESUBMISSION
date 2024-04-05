@@ -1,6 +1,6 @@
-# My Website
+# TUF_CODESUBMISSION
 
-Welcome to my website! This website serves as a platform for users to submit and view code submissions.
+Welcome to my website! This website serves as a platform for users to submit and view code submissions result.
 
 ## Features
 
